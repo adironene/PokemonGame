@@ -1,37 +1,7 @@
-# Pokemon_real
+# Pokemon Game!
 we based our project on mutliple classes, with PokemonGameRunner as the main. We acheived animation through drawing images with pokemon sprites. The map was based on a 2D Array while the arrows trigger movement from the character.
-
-
-
-.
-────────▄███████████▄────────
-─────▄███▓▓▓▓▓▓▓▓▓▓▓███▄─────
-────███▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓███────
-───██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓██───
-──██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓██──
-─██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓██─
-██▓▓▓▓▓▓▓▓▓███████▓▓▓▓▓▓▓▓▓██
-██▓▓▓▓▓▓▓▓██░░░░░██▓▓▓▓▓▓▓▓██
-██▓▓▓▓▓▓▓██░░███░░██▓▓▓▓▓▓▓██
-███████████░░███░░███████████ 
- ██░░░░░░░██░░███░░██░░░░░░░██                                                                                                   
-██░░░░░░░░██░░░░░██░░░░░░░░██                                                                                                   
-██░░░░░░░░░███████░░░░░░░░░██                                                                                                   
-─██░░░░░░░░░░░░░░░░░░░░░░░██─                                                                                                        
-──██░░░░░░░░░░░░░░░░░░░░░██──                                                                                                   
-───██░░░░░░░░░░░░░░░░░░░██───                                                                                                   
-────███░░░░░░░░░░░░░░░███────
-─────▀███░░░░░░░░░░░███▀─────
-────────▀███████████▀────────
-
-types:
-normal = 0
-fire = 1
-water = 2
-electric = 3
-grass = 4
-poison = 5
-bug = 6
+![39-390911_ash-ketchum-png-free-download-pokemon-ash-ketchum](https://user-images.githubusercontent.com/49921653/76677094-8e437f80-6587-11ea-9fdf-d8145aadf0dc.png)
+# Coordinates
 
 jack:
 xCo: 12yCo: 31
@@ -82,3 +52,7 @@ xCo: 9yCo: 28=  snorlax
 2ND nurse:
 xCo: 43yCo: 41 = null
 xCo: 43yCo: 42 = checkpoint
+
+# navigation
+- esc button gives you the menu
+- navigate with ASWD buttons
